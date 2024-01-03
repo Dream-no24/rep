@@ -70,7 +70,7 @@ export default function Component() {
                 alt="Reptile Manager"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
                 height="550"
-                src="https://rudwn1.github.io/rep/chamel.jpeg"
+                src="https://rudwn1.github.io/rep/chameleon2.jpeg"
                 width="550"
               />
               <div className="flex flex-col justify-center space-y-4">
