@@ -11,19 +11,6 @@ import Head from 'next/head'
 import '../styles/globals.css'
 import Head from 'next/head'
 
-function MyApp({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <title>Create Next App Demo</title>
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-
-export default MyApp
-
 function scrollToSection(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 }
