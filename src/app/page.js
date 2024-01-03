@@ -9,7 +9,6 @@ import { CardContent, Card, CardHeader } from "@/components/ui/card"
 import { TableHead, TableRow, TableHeader, TableCell, TableBody, Table } from "@/components/ui/table"
 import Head from 'next/head'
 import '../styles/globals.css'
-import Head from 'next/head'
 
 function scrollToSection(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
@@ -18,9 +17,6 @@ function scrollToSection(sectionId) {
 export default function Component() {
   return (
     <>
-    <Head>
-      <title>Reptile Manager</title>
-    </Head>
       <div className="flex h-20 w-full shrink-0 items-center px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 bg-gradient-to-r from-blue-500 to-green-500 fixed top-0 z-50">
         <Link className="flex items-center justify-center" href="#">
           <StoreIcon className="h-6 w-6 text-white mr-2" />
