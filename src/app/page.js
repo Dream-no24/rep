@@ -86,7 +86,7 @@ export default function Component() {
                     management
                   </p>
                 </div>
-                <Button className="bg-white text-black" onclick="location.href='#Feasibility'">Learn More</Button>
+                <Button className="bg-white text-black" onClick="location.href='#Feasibility'">Learn More</Button>
               </div>
             </div>
           </div>
