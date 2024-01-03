@@ -59,6 +59,8 @@ export default function Component() {
           </Link>
         </nav>
       </div>
+      
+                
       <main className="flex-1">
         <section
           className="w-full py-12 sm:py-24 md:py-32 xl:py-48 bg-gradient-to-r from-blue-500 to-green-500 text-white"
@@ -84,7 +86,7 @@ export default function Component() {
                     management
                   </p>
                 </div>
-                <Button className="bg-white text-black">Learn More</Button>
+                <Button className="bg-white text-black" href="#Feasibility">Learn More</Button>
               </div>
             </div>
           </div>
