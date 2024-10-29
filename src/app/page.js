@@ -72,7 +72,7 @@ export default function Component() {
                 alt="Reptile Manager"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
                 height="550"
-                src="https://rudwn1.github.io/rep/chameleon2.jpeg"
+                src="https://Dream-no24.github.io/rep/chameleon2.jpeg"
                 width="550"
               />
               <div className="flex flex-col justify-center space-y-4">
@@ -98,7 +98,7 @@ export default function Component() {
                 alt="Reptile Manager"
                 className="w-20 h-20 mb-5"
                 height="100"
-                src="https://rudwn1.github.io/rep/thinking.png"
+                src="https://Dream-no24.github.io/rep/thinking.png"
                 width="100"
               />
               <h2 className="text-2xl font-bold">Problem recognition</h2>
@@ -112,7 +112,7 @@ export default function Component() {
                 alt="Reptile Manager"
                 className="w-20 h-20 mb-5"
                 height="100"
-                src="https://rudwn1.github.io/rep/flame.png"
+                src="https://Dream-no24.github.io/rep/flame.png"
                 width="100"
               />
               <h2 className="text-2xl font-bold">Motivation for development</h2>
@@ -126,7 +126,7 @@ export default function Component() {
                 alt="Reptile Manager"
                 className="w-20 h-20 mb-5"
                 height="100"
-                src="https://rudwn1.github.io/rep/lightbulb.png"
+                src="https://Dream-no24.github.io/rep/lightbulb.png"
                 width="100"
               />
               <h2 className="text-2xl font-bold">Necessity for development</h2>
@@ -149,7 +149,7 @@ export default function Component() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-8 flex-grow mt-8">
           <div className="p-3 bg-white rounded-lg shadow text-center">
               <span className="relative flex shrink-0 overflow-hidden rounded-full w-24 h-24 mx-auto mb-4">
-                <img src="https://rudwn1.github.io/rep/sea-lion.png" alt="User Avatar"/>
+                <img src="https://Dream-no24.github.io/rep/sea-lion.png" alt="User Avatar"/>
               </span>
               <h3 className="font-bold text-xl mb-3">Gyeongju Kim</h3>
               <p className="text-gray-500">Hanyang University ERICA Student</p>
@@ -158,7 +158,7 @@ export default function Component() {
               <p class="text-blue-500 font-bold">Email: <a href="mailto:kjkim0905@hanyang.ac.kr" class="text-blue-500">kjkim0905@hanyang.ac.kr</a></p>
             </div><div className="p-3 bg-white rounded-lg shadow text-center">
               <span className="relative flex shrink-0 overflow-hidden rounded-full w-24 h-24 mx-auto mb-4">
-                <img src="https://rudwn1.github.io/rep/cat.png" alt="User Avatar"/>
+                <img src="https://Dream-no24.github.io/rep/cat.png" alt="User Avatar"/>
               </span>
               <h3 className="font-bold text-xl mb-3">Bogyeong Kim</h3>
               <p className="text-gray-500">Hanyang University ERICA Student</p>
@@ -194,7 +194,7 @@ export default function Component() {
                   <img
   alt="Reptile disease distribution_Figure 2. Cristina RT, Kocsis R, Dégi J, Muselin F, Dumitrescu E, Tirziu E, Herman V, Darău AP, Oprescu I. Pathology and Prevalence of Antibiotic-Resistant Bacteria: A Study of 398 Pet Reptiles. Animals (Basel). 2022 May 17;12(10):1279. doi: 10.3390/ani12101279. PMID: 35625125; PMCID: PMC9137941"
   className="aspect-square object-contain border border-gray-300 w-full rounded-lg overflow-hidden dark:border-gray-300"
-  src="https://rudwn1.github.io/rep/chart.jpeg"
+  src="https://Dream-no24.github.io/rep/chart.jpeg"
 />
 
                   <figcaption className="text-center mt-2">Figure 2. Cristina RT, Kocsis R, Dégi J, Muselin F, Dumitrescu E, Tirziu E, Herman V, Darău AP, Oprescu I. Pathology and Prevalence of Antibiotic-Resistant Bacteria: A Study of 398 Pet Reptiles. Animals (Basel). 2022 May 17;12(10):1279. doi: 10.3390/ani12101279. PMID: 35625125; PMCID: PMC9137941.</figcaption>
@@ -297,7 +297,7 @@ export default function Component() {
                     alt="Conceptual Drawing"
                     className="aspect-square object-cover border border-gray-200 w-full rounded-lg overflow-hidden dark:border-gray-800 mt-4"
                     height="200"
-                    src="https://rudwn1.github.io/rep/concept.jpeg"
+                    src="https://Dream-no24.github.io/rep/concept.jpeg"
                     width="200"
                   />
                   <figcaption className="text-center mt-2">Conceptual Drawing</figcaption>
